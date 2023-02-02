@@ -1,0 +1,18 @@
+
+              {/* <Typewriter
+                onInit={(typewriter) => {
+                  typewriter
+                    .typeString(
+                      "Welcome to our Interactive Chat Bot for Blockchain Technology and NFT Learning, \nwhere you can learn and understand these complex technologies in a fun and engaging way!"
+                    )
+                    .callFunction(() => {
+                      console.log("String typed out!");
+                    })
+                    .pauseFor(1000)
+                    .callFunction(() => {
+                      console.log("All strings were deleted");
+                    })
+                    
+                    .start();
+                }}
+              /> */}
